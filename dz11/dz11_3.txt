@@ -1,0 +1,4 @@
+Changed value from 3000$ to 9000$ by 2022-01-28 16:53:20.362124
+Changed value from 3000$ to 4000$ by 2022-01-28 16:54:52.639927
+Changed value from 3000$ to 4000$ by 2022-01-28 18:07:00.681768
+Changed value from 3000$ to 10000$ by 2022-01-28 18:07:33.169524
